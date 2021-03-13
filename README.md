@@ -1,2 +1,2 @@
 # StormAsset
-StormAsset - Blender's add-on to instantiate procedural assets
+StormAsset is a blender addon to instantiate procedural assets
