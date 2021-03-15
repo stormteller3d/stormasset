@@ -1,11 +1,7 @@
 # StormAsset
 StormAsset is a blender addon to instantiate procedural assets
 
-.
-
-.
-
-.
+==========
 
 
 ##About beta version
