@@ -22,7 +22,7 @@ Two assets can be found in the received file, once the addon is installed, they 
 
 ### The book 
 
-The file of this asset has few modifications compared to the original posted on the Blender subreddit, it was inserted with the addon to test the possibility of creating different assets.
+The file of this asset has few modifications compared to the original posted on the Blender subreddit, this has been integrated into the add-on to test the possibility of creating different assets.
 
 **Note 1:** Node groups are still confused**
 
