@@ -2,7 +2,6 @@
 
 StormAsset is a blender addon to instantiate procedural assets
 
---------------------
 
 
 ## About beta version
@@ -35,6 +34,8 @@ The file of this asset has few modifications compared to the original posted on 
 
 This asset was created especially for the addon, in order to extensively test the procedural possibilities.
 Note: Like the book, this asset is a work in progress, but it already has most of the planned procedural parameters
+
+--------------------
 
 Any other question can be sent to the email:
 stormasset3d@protonmail.com
