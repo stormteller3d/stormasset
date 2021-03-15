@@ -24,7 +24,7 @@ Two assets can be found in the received file, once the addon is installed, they 
 
 The file of this asset has few modifications compared to the original posted on the Blender subreddit, this has been integrated into the add-on to test the possibility of creating different assets.
 
-**Note 1:** Node groups are still confused**
+**Note 1:** node groups are still confused
 
 **Note 2:** a new version of the book is still in development and will be released with the addon
 
