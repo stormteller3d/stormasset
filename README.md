@@ -37,7 +37,7 @@ This asset was created especially for the addon, in order to extensively test th
 
 **Note:** Like the book, this asset is a work in progress, but it already has most of the planned procedural parameters
 
---------------------
+------------------------------------------------------------
 
 Any other question can be sent to the email:
 stormasset3d@protonmail.com
