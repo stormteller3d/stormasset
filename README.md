@@ -3,7 +3,6 @@
 StormAsset is a Blender addon to instantiate procedural assets of any type
 
 
-
 ## About beta version
 
 The current version is only available to beta testers, without any means of wide distribution.
@@ -20,6 +19,7 @@ The documentation and listing of issues can be found at the following links:
 
 Two assets can be found in the received file, once the addon is installed, they must be ready to be added to your .blend scene.
 
+
 ### The book 
 
 The file of this asset has few modifications compared to the original posted on the Blender subreddit, this has been integrated into the add-on to test the possibility of creating different assets.
@@ -29,6 +29,7 @@ The file of this asset has few modifications compared to the original posted on 
 **Note 2:** A new version of the book is still in development and will be released with the addon
 
 **Note 3:** This version is not optimized for low poly uses
+
 
 ### The vase
 
